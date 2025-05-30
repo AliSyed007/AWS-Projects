@@ -1,2 +1,2 @@
 #AWS-Projects
-Beginner friendly projects
+Beginner-friendly projects
